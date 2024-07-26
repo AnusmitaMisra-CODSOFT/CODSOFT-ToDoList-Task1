@@ -1,3 +1,3 @@
-To design a simple calculator with basic arithmetic operations.
-1. It will prompt the user to input two numbers and an operation choice.
-2. And then ,it will perform the calculation and display the result.
+                                                        TO-DO LIST
+A To-Do List application is a useful project that helps users manage and organize their tasks efficiently.
+This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists
